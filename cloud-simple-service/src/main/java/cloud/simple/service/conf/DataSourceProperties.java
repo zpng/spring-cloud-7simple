@@ -6,9 +6,9 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 public class DataSourceProperties {
 
 	//对应配置文件里的配置键
-	public final static String DS="mysqldb.datasource";
+	public final static String DS="mysqldb.datasource";	
+	private String driverClassName ="com.mysql.jdbc.Driver";
 	
-	private String driverClassName; 
 	private String url; 
 	private String username; 
 	private String password;
