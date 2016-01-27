@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Vendor: Pivotal Software, Inc.
-Implementation-Title: cloud-simple-docker
-Implementation-Version: 1.0.0
-Implementation-Vendor-Id: cloud
-Build-Jdk: 1.6.0_13
-Built-By: Administrator
-Created-By: Maven Integration for Eclipse
-
