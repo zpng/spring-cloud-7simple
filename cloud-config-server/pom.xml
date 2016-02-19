@@ -8,7 +8,7 @@
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>configserver</name>
+	<name>cloud-config-serve</name>
 	<description>cloud-config-server</description>
 
 	<parent>
