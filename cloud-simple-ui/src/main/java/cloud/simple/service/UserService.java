@@ -13,17 +13,24 @@ import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 import cloud.simple.model.User;
+import cloud.simple.service.UserServiceProvider.FeignUserService;
+
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 
 @Service
 public class UserService {
 	 @Autowired	 
-	 RestTemplate restTemplate;	 
+	 RestTemplate restTemplate;
+	
+	 @Autowired
+	 FeignUserService feignUserService;
+	 
 	 final String SERVICE_NAME="cloud-simple-service";
 	 
 	 @HystrixCommand(fallbackMethod = "fallbackSearchAll")
-	 public List<User> searchAll() {
+	 public List<User> readUserInfo() {
 	        return restTemplate.getForObject("http://"+SERVICE_NAME+"/user", List.class);
+		 //return feignUserService.readUserInfo();
 	 }	 
 	 private List<User> fallbackSearchAll() {
 		 System.out.println("HystrixCommand fallbackMethod handle!");

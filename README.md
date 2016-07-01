@@ -18,6 +18,11 @@
 * JDK：jdk1.7
 * WINDOWS：mvn 3
 
+使用import导入普通工程即可使用
+
+spring boot版本：1.3.5.RELEASE
+spring cloud版本：Brixton.RELEASE
+
 -------------------
 -------------------
 
