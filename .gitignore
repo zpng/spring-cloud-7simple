@@ -133,3 +133,4 @@ cloud-simple-service/target/classes/cloud/simple/service/domain/
 cloud-simple-service/target/classes/cloud/simple/service/model/
 cloud-simple-service/target/classes/cloud/simple/service/web/
 cloud-simple-service/target/generated-sources/
+cloud-simple-ui/target/
