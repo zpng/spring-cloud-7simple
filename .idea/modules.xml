@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-thrift-interface/cloud-thrift-interface.iml" filepath="$PROJECT_DIR$/cloud-thrift-interface/cloud-thrift-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-thrift-server/cloud-thrift-server.iml" filepath="$PROJECT_DIR$/cloud-thrift-server/cloud-thrift-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/../spring-cloud-config-demo/spring-cloud-config-demo.iml" filepath="$PROJECT_DIR$/../spring-cloud-config-demo/spring-cloud-config-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-config-demo/spring-cloud-config-demo.iml" filepath="$PROJECT_DIR$/../spring-cloud-config-demo/spring-cloud-config-demo.iml" />
     </modules>
   </component>
 </project>

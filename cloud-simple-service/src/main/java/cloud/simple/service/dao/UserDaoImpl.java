@@ -26,6 +26,7 @@ public class UserDaoImpl implements UserDao {
         @Override
         public User mapRow(ResultSet rs, int row) throws SQLException {
             User user = new User();
+            user.setId(rs.getInt("id"));
             user.setUsername(rs.getString("username"));
             return user;
         }

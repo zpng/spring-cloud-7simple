@@ -123,3 +123,5 @@ cloud-simple-ui/cloud-simple-ui.iml
 cloud-thrift-client/cloud-thrift-client.iml
 cloud-thrift-interface/cloud-thrift-interface.iml
 .idea/findbugs-idea.xml
+.idea/modules.xml
+.idea/sqldialects.xml
