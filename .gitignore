@@ -125,3 +125,11 @@ cloud-thrift-interface/cloud-thrift-interface.iml
 .idea/findbugs-idea.xml
 .idea/modules.xml
 .idea/sqldialects.xml
+cloud-config-server/target/generated-sources/
+cloud-eureka-server/target/
+cloud-simple-service/src/main/java/cloud/simple/service/server/
+cloud-simple-service/target/classes/cloud/simple/service/conf/
+cloud-simple-service/target/classes/cloud/simple/service/domain/
+cloud-simple-service/target/classes/cloud/simple/service/model/
+cloud-simple-service/target/classes/cloud/simple/service/web/
+cloud-simple-service/target/generated-sources/
