@@ -8,10 +8,12 @@ package cloud.simple.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
 
 /**
  * @author zhangpeng
  */
+@RefreshScope
 @SpringBootApplication
 public class SimpleService {
     public static void main(String[] args) {

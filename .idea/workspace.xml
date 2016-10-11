@@ -35,49 +35,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ConfigServerApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-config-server/src/main/java/cloud/config/server/ConfigServerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <element signature="e#588#589#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/web/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleService.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/SimpleService.java">
+      <file leaf-file-name="simple-service-dev.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-cloud-config-demo/cloud-config-repo/simple-service-dev.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/SimpleService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cloud-config-server/src/main/resources/application.properties">
+      <file leaf-file-name="DataSourceProperties.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/conf/DataSourceProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-350">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MybatisDataSource.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/conf/MybatisDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-188">
+              <caret line="25" column="43" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDaoImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/dao/UserDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+              <folding>
+                <element signature="e#691#937#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#1040#1041#0" expanded="true" />
+                <element signature="e#1120#1121#0" expanded="true" />
+                <marker date="1476182773000" expanded="true" signature="1077:1095" placeholder="select * fro... user" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,7 +137,11 @@
       <list>
         <option value="$PROJECT_DIR$/cloud-config-server/src/main/java/cloud/config/server/ConfigServerApplication.java" />
         <option value="$PROJECT_DIR$/cloud-config-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/SimpleService.java" />
+        <option value="$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/conf/MybatisDataSource.java" />
+        <option value="$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/dao/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../spring-cloud-config-demo/cloud-config-repo/simple-service-dev.properties" />
       </list>
     </option>
   </component>
@@ -281,6 +318,66 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="cloud-simple-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-cloud-7simple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloud-simple-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-cloud-7simple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="cloud-simple-helloword" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -359,6 +456,12 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value=".git&#9;FILE&#9;file:///Users/zhangpeng/github/spring-cloud-7simple/.gitignore" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cloud.simple.service.dao" />
+    </key>
   </component>
   <component name="RunManager" selected="Spring Boot.SimpleService">
     <configuration default="false" name="SimpleService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -932,12 +1035,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476180650371</updated>
-      <workItem from="1476180657998" duration="1051000" />
+      <workItem from="1476180657998" duration="2289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1051000" />
+    <option name="totallyTimeSpent" value="2289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="23" width="1920" height="1053" extended-state="6" />
@@ -965,7 +1068,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47346514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4932362" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -986,10 +1089,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cloud-config-server/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="315">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -1005,22 +1108,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/web/UserController.java">
+    <entry file="file://$PROJECT_DIR$/cloud-config-server/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/SimpleService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state relative-caret-position="150">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-cloud-config-demo/cloud-config-repo/simple-service-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/dao/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="e#691#937#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+            <marker date="1476182773000" expanded="true" signature="1077:1095" placeholder="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/conf/DataSourceProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-simple-service/src/main/java/cloud/simple/service/conf/MybatisDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-188">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
