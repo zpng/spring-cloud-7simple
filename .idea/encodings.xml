@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-hystrix-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-monitor-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-simple-docker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-simple-helloword" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-simple-log4j" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-simple-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-simple-ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-thrift-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-thrift-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-thrift-server" charset="UTF-8" />
+  </component>
+</project>

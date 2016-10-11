@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" filepath="$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-hystrix-dashboard/cloud-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/cloud-hystrix-dashboard/cloud-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-hystrix-turbine/cloud-hystrix-turbine.iml" filepath="$PROJECT_DIR$/cloud-hystrix-turbine/cloud-hystrix-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-monitor-server/cloud-monitor-server.iml" filepath="$PROJECT_DIR$/cloud-monitor-server/cloud-monitor-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-simple-docker/cloud-simple-docker.iml" filepath="$PROJECT_DIR$/cloud-simple-docker/cloud-simple-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-simple-helloword/cloud-simple-helloword.iml" filepath="$PROJECT_DIR$/cloud-simple-helloword/cloud-simple-helloword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-simple-log4j/cloud-simple-log4j.iml" filepath="$PROJECT_DIR$/cloud-simple-log4j/cloud-simple-log4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-simple-service/cloud-simple-service.iml" filepath="$PROJECT_DIR$/cloud-simple-service/cloud-simple-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-simple-ui/cloud-simple-ui.iml" filepath="$PROJECT_DIR$/cloud-simple-ui/cloud-simple-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-thrift-client/cloud-thrift-client.iml" filepath="$PROJECT_DIR$/cloud-thrift-client/cloud-thrift-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-thrift-interface/cloud-thrift-interface.iml" filepath="$PROJECT_DIR$/cloud-thrift-interface/cloud-thrift-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-thrift-server/cloud-thrift-server.iml" filepath="$PROJECT_DIR$/cloud-thrift-server/cloud-thrift-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-config-demo/spring-cloud-config-demo.iml" filepath="$PROJECT_DIR$/../spring-cloud-config-demo/spring-cloud-config-demo.iml" />
+    </modules>
+  </component>
+</project>
