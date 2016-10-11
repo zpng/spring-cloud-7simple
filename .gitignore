@@ -134,3 +134,6 @@ cloud-simple-service/target/classes/cloud/simple/service/model/
 cloud-simple-service/target/classes/cloud/simple/service/web/
 cloud-simple-service/target/generated-sources/
 cloud-simple-ui/target/
+cloud-thrift-client/target/
+cloud-thrift-interface/target/
+cloud-thrift-server/target/
