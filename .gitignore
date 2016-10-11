@@ -110,3 +110,16 @@ local.properties
 # Code Recommenders
 .recommenders/
 
+cloud-config-server/cloud-config-server.iml
+cloud-eureka-server/cloud-eureka-server.iml
+cloud-hystrix-dashboard/cloud-hystrix-dashboard.iml
+cloud-hystrix-turbine/cloud-hystrix-turbine.iml
+cloud-monitor-server/cloud-monitor-server.iml
+cloud-simple-docker/cloud-simple-docker.iml
+cloud-simple-helloword/cloud-simple-helloword.iml
+cloud-simple-log4j/cloud-simple-log4j.iml
+cloud-simple-service/cloud-simple-service.iml
+cloud-simple-ui/cloud-simple-ui.iml
+cloud-thrift-client/cloud-thrift-client.iml
+cloud-thrift-interface/cloud-thrift-interface.iml
+.idea/findbugs-idea.xml
