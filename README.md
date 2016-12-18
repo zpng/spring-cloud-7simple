@@ -26,6 +26,6 @@
 详细介绍见：http://www.cnblogs.com/skyblog/p/5127712.html
 
 -------------------
--------------------
-
-
+----------------
+本人的另一个介绍使用spring-cloud的例子的项目
+https://github.com/zpng/spring-cloud-microservice-examples
